@@ -1,0 +1,27 @@
+OUTER PREAMBLE
+--mixed-boundary
+
+The quick brown fox jumps over the lazy dog.
+
+--mixed-boundary
+Content-Type: multipart/digest; boundary="digest-boundary"
+
+INNER PREAMBLE
+--digest-boundary
+
+Method: PATCH
+Date: Sat, 08 Jun 2024 00:34:39 GMT
+
+
+--digest-boundary
+
+Method: DELETE
+Date: Sat, 08 Jun 2024 00:34:39 GMT
+
+
+--digest-boundary
+
+--digest-boundary--
+INNER EPILOGUE
+--mixed-boundary--
+OUTER EPILOGUE

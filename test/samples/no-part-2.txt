@@ -1,0 +1,9 @@
+OUTER PREAMBLE
+--mixed-boundary
+
+The quick brown fox jumps over the lazy dog.
+
+
+--mixed-boundary--
+
+OUTER EPILOGUE

@@ -1,0 +1,12 @@
+OUTER PREAMBLE
+--mixed-boundary
+
+The quick brown fox jumps over the lazy dog.
+
+--mixed-boundary
+Content-Type: text/plain
+
+Gobble Gobble
+
+--mixed-boundary--
+OUTER EPILOGUE
